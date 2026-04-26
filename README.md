@@ -1,2 +1,8 @@
-# Linear-Data-Structures-in-CPP
-Implementation of Linked Lists, Stacks, and Queues in C++ with real-world problem solving and menu-driven systems.
+## Concepts Covered
+Node creation and memory management
+Insertion (head & tail)
+Searching and traversal
+Counting occurrences
+Menu-driven real-world implementation
+
+This folder contains implementations of Singly Linked Lists in C++.
